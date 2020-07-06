@@ -3,7 +3,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 
 #IMPORT DATA
-data = pd.read_csv(r'C:\Users\nikhi\Desktop\project\COMPLETE PROJECT\analytics vidya\income group experiment with data\train.csv')
+data = pd.read_csv('train.csv')
 
 #==============================================================================
                            #UNIVARIATE ANALYSIS
